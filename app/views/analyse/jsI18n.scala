@@ -33,6 +33,7 @@ private object jsI18n {
     trans.playWithTheMachine,
     trans.playWithAFriend,
     trans.openingExplorer,
+    trans.openingTrainer,
     trans.inaccuracies,
     trans.mistakes,
     trans.blunders,
@@ -118,6 +119,7 @@ private object jsI18n {
     // explorer (also uses gameOver, checkmate, stalemate, draw, variantEnding)
     trans.openingExplorerAndTablebase,
     trans.openingExplorer,
+    trans.openingTrainer,
     trans.xOpeningExplorer,
     trans.move,
     trans.games,

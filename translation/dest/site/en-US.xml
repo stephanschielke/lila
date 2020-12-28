@@ -94,6 +94,7 @@
   <string name="noGameFound">No game found</string>
   <string name="maybeIncludeMoreGamesFromThePreferencesMenu">Maybe include more games from the preferences menu?</string>
   <string name="openingExplorer">Opening explorer</string>
+  <string name="openingTrainer">Opening trainer</string>
   <string name="xOpeningExplorer">%s opening explorer</string>
   <string name="winPreventedBy50MoveRule">Win prevented by 50-move rule</string>
   <string name="lossSavedBy50MoveRule">Loss prevented by 50-move rule</string>

@@ -79,6 +79,10 @@ object features {
               " (62 million games!)"
             ),
             tr(unlimited)(
+              a(href := s"${routes.UserAnalysis.index()}#trainer")("Opening trainer"),
+              " Punish the computers opening mistakes"
+            ),
+            tr(unlimited)(
               a(href := s"${routes.UserAnalysis.parseArg("QN4n1/6r1/3k4/8/b2K4/8/8/8_b_-_-")}#explorer")(
                 "7-piece endgame tablebase"
               )

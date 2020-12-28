@@ -129,6 +129,7 @@ object userAnalysisI18n {
     // also uses gameOver, checkmate, stalemate, draw, variantEnding
     trans.openingExplorerAndTablebase,
     trans.openingExplorer,
+    trans.openingTrainer,
     trans.xOpeningExplorer,
     trans.move,
     trans.games,
